@@ -114,7 +114,7 @@
 ## :fire: My Stats :
 <p align="center">
 	<img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=harunurroshidcse&show_icons=true&theme=transparent" />
-	<img width="48%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?username=harunurroshidcse&show_icons=true&theme=transparent" />
+	<img width="48%" height="300px" src="https://github-readme-streak-stats.herokuapp.com?user=harunurroshidcse&show_icons=true&theme=transparent" />
 </p>
 <div align="center"> 
 	<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harunurroshidcse&layout=pie&show_icons=true&theme=transparent"/>
